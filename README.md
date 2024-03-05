@@ -18,7 +18,7 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.
 <sup>6</sup> HAMO.AI
 
 > ### Feature
-> This paper tries to solve multiple single-image-based warping problems in a unified framework. 
+> This paper tries to implement online video stitching by eliminating warping shakes in a unified unsupervised framework. 
 ![image](https://github.com/nie-lang/CoupledTPS/blob/main/fig.png)
 The above figure shows three examples of our method. The proposed CoupledTPS corrects (a) the 2D in-plane tilt, (b) irregular boundaries, and (c) wide-angle portrait via a unified warping framework.
 
