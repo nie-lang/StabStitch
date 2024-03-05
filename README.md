@@ -16,7 +16,7 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.
 <sup>5</sup> HAMO.AI
 
 > ### Feature
-> This paper tries to implement online video stitching by eliminating warping shakes in a unified unsupervised framework. 
+> Nowadays, the videos captured from hand-held cameras are typically stable due to the advancements and widespread adoption of video stabilization in both hardware and software. Under such circumstances, we retarget video stitching to an emerging issue, warping shake, which describes the undesired content instability in non-overlapping regions especially when image stitching technology is directly applied to videos. To address it, we propose the first unsupervised online video stitching framework, named StabStitch, by generating stitching trajectories and smoothing them. 
 ![image](https://github.com/nie-lang/CoupledTPS/blob/main/fig.png)
 The above figure shows three examples of our method. The proposed CoupledTPS corrects (a) the 2D in-plane tilt, (b) irregular boundaries, and (c) wide-angle portrait via a unified warping framework.
 
