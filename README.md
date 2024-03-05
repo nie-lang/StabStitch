@@ -15,13 +15,13 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.
 
 <sup>5</sup> HAMO.AI
 
-## Demo
-Here, we provide a [demo video]() to show the stitched results from StabStitch and other solutions.
-
 > ### Feature
 > Nowadays, the videos captured from hand-held cameras are typically stable due to the advancements and widespread adoption of video stabilization in both hardware and software. Under such circumstances, we retarget video stitching to an emerging issue, warping shake, which describes the undesired content instability in non-overlapping regions especially when image stitching technology is directly applied to videos. To address it, we propose the first unsupervised online video stitching framework, named StabStitch, by generating stitching trajectories and smoothing them. 
 ![image](https://github.com/nie-lang/StabStitch/blob/main/fig.png)
 The above figure shows the occurrence and elimination of warping shakes.
+> 
+## Demo
+Here, we provide a [demo video]() to show the stitched results from StabStitch and other solutions.
 
 ## Code and Dataset
 We will release the code and dataset once the paper is accepted.
