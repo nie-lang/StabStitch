@@ -3,19 +3,17 @@
 ## Introduction
 This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.13432) (arXiv 2401.13432).
 
-[Lang Nie](https://nie-lang.github.io/)<sup>1,2</sup>, [Chunyu Lin](https://faculty.bjtu.edu.cn/8549/)<sup>1,2</sup>, [Kang Liao](https://kangliao929.github.io/)<sup>3</sup>, [Yun Zhang](http://zhangyunnet.cn/academic/index.html)<sup>4</sup>, [Shuaicheng Liu](http://www.liushuaicheng.org/)<sup>5</sup>, Rui Ai<sup>6</sup>, [Yao Zhao](https://faculty.bjtu.edu.cn/5900/)<sup>1,2</sup>
+[Lang Nie](https://nie-lang.github.io/)<sup>1</sup>, [Chunyu Lin](https://faculty.bjtu.edu.cn/8549/)<sup>1</sup>, [Kang Liao](https://kangliao929.github.io/)<sup>2</sup>, [Yun Zhang](http://zhangyunnet.cn/academic/index.html)<sup>3</sup>, [Shuaicheng Liu](http://www.liushuaicheng.org/)<sup>4</sup>, Rui Ai<sup>5</sup>, [Yao Zhao](https://faculty.bjtu.edu.cn/5900/)<sup>1</sup>
 
-<sup>1</sup> Institute of Information Science, Beijing Jiaotong University
+<sup>1</sup> Beijing Jiaotong University
 
-<sup>2</sup> Beijing Key Laboratory of Advanced Information Science and Network
+<sup>2</sup> Nanyang Technological University
 
-<sup>3</sup> Nanyang Technological University
+<sup>3</sup> Communication University of Zhejiang 
 
-<sup>4</sup> Communication University of Zhejiang 
+<sup>4</sup> University of Electronic Science and Technology of China
 
-<sup>5</sup> University of Electronic Science and Technology of China
-
-<sup>6</sup> HAMO.AI
+<sup>5</sup> HAMO.AI
 
 > ### Feature
 > This paper tries to implement online video stitching by eliminating warping shakes in a unified unsupervised framework. 
