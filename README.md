@@ -5,9 +5,7 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.
 
 [Lang Nie](https://nie-lang.github.io/)<sup>1</sup>, [Chunyu Lin](https://faculty.bjtu.edu.cn/8549/)<sup>1</sup>, [Kang Liao](https://kangliao929.github.io/)<sup>2</sup>, [Yun Zhang](http://zhangyunnet.cn/academic/index.html)<sup>3</sup>, [Shuaicheng Liu](http://www.liushuaicheng.org/)<sup>4</sup>, Rui Ai<sup>5</sup>, [Yao Zhao](https://faculty.bjtu.edu.cn/5900/)<sup>1</sup>
 
-{nielang, cylin, yzhao}@bjtu.edu.cn, kang.liao@ntu.edu.sg, zhangyun@cuz.edu.cn, liushuaicheng@uestc.edu.cn
-
-<sup>1</sup> Beijing Jiaotong University
+<sup>1</sup> Beijing Jiaotong University  {nielang, cylin, yzhao}@bjtu.edu.cn
 
 <sup>2</sup> Nanyang Technological University
 
