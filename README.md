@@ -20,8 +20,8 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.
 ![image](https://github.com/nie-lang/StabStitch/blob/main/fig.png)
 The above figure shows the occurrence and elimination of warping shakes.
 > 
-## Demo
-Here, we provide a [demo video]() to show the stitched results from StabStitch and other solutions.
+## Video
+Here, we provide a [video]() to show the stitched results from StabStitch and other solutions.
 
 ## Code and Dataset
 We will release the code and dataset once the paper is accepted.
