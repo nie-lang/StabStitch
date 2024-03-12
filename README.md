@@ -1,7 +1,7 @@
 # <p align="center">Eliminating Warping Shakes for Unsupervised Online Video Stitching
 
 ## Introduction
-This is the official implementation for [StabStitch](https://arxiv.org/abs/2401.13432) (arXiv 2401.13432).
+This is the official implementation for [StabStitch](https://arxiv.org/abs/2403.06378) (arXiv 2401.13432).
 
 [Lang Nie](https://nie-lang.github.io/)<sup>1</sup>, [Chunyu Lin](https://faculty.bjtu.edu.cn/8549/)<sup>1</sup>, [Kang Liao](https://kangliao929.github.io/)<sup>2</sup>, [Yun Zhang](http://zhangyunnet.cn/academic/index.html)<sup>3</sup>, [Shuaicheng Liu](http://www.liushuaicheng.org/)<sup>4</sup>, Rui Ai<sup>5</sup>, [Yao Zhao](https://faculty.bjtu.edu.cn/5900/)<sup>1</sup>
 
