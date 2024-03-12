@@ -21,7 +21,7 @@ This is the official implementation for [StabStitch](https://arxiv.org/abs/2403.
 The above figure shows the occurrence and elimination of warping shakes.
 > 
 ## Video
-Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t=31s) (released on YouTube) to show the stitched results from StabStitch and other solutions.
+Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (released on YouTube) to show the stitched results from StabStitch and other solutions.
 
 ## Code and Dataset
 We will release the code and dataset once the paper is accepted.
