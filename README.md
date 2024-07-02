@@ -23,5 +23,13 @@ The above figure shows the occurrence and elimination of warping shakes.
 ## Video
 Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (released on YouTube) to show the stitched results from StabStitch and other solutions.
 
+## 📝 Changelog
+
+- [x] 2023.03.11: The paper of the arXiv version is online.
+- [ ] Release the camera-ready version at arXiv.
+- [ ] Release the StabStitch-D dataset.
+- [ ] Release the inference code and pre-trained model.
+- [ ] Release a more generalized model trained on the traditional video stitching datasets (collected from previous traditional video stitching papers).
+
 ## Code and Dataset
-We will release the code and dataset within several weaks.
+We will release the code and dataset within several weeks.
