@@ -25,8 +25,8 @@ Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (relea
 
 ## 📝 Changelog
 
-- [x] 2023.03.11: The paper of the arXiv version is online.
-- [ ] Release the camera-ready version at arXiv.
+- [x] 2024.03.11: The paper of the arXiv version is online.
+- [x] 2024.07.11: We have replaced the original arXiv version with the final camera-ready version.
 - [ ] Release the StabStitch-D dataset.
 - [ ] Release the inference code and pre-trained model.
 - [ ] Release a more generalized model trained on the traditional video stitching datasets (collected from previous traditional video stitching papers).
