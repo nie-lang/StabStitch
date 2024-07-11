@@ -29,7 +29,12 @@ Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (relea
 - [x] 2024.07.11: We have replaced the original arXiv version with the final camera-ready version.
 - [ ] Release the StabStitch-D dataset.
 - [ ] Release the inference code and pre-trained model.
-- [ ] Release a more generalized model trained on the traditional video stitching datasets (collected from previous traditional video stitching papers).
+- [ ] Release a limitation analysis about generalization.
 
-## Code and Dataset
-We will release the code and dataset within several weeks.
+## Dataset (StabStitch-D)
+The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/abs/2403.06378))
+
+The dataset can be available at [Google Drive](https://drive.google.com/drive/folders/16EDGrKOLLwcMseOjpI7bCrv_aP1MYVcz?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1TKQAQ9zryUuU4uzTiswfHg)(Extraction code: 1234).
+
+## Code
+We will release the code within this week.
