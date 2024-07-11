@@ -38,3 +38,25 @@ The dataset can be available at [Google Drive](https://drive.google.com/drive/fo
 
 ## Code
 We will release the code within this week.
+
+## Limitation and Future Prospect 
+.
+
+## Meta
+If you have any questions about this project, please feel free to drop me an email.
+
+NIE Lang -- nielang@bjtu.edu.cn
+```
+@article{nie2024eliminating,
+  title={Eliminating Warping Shakes for Unsupervised Online Video Stitching},
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Zhang, Yun and Liu, Shuaicheng and Zhao, Yao},
+  journal={arXiv preprint arXiv:2403.06378},
+  year={2024}
+}
+```
+
+
+## References
+[1] S Liu, P Tan, L Yuan, J Sun, B Zeng. Meshflow: Minimum latency online video stabilization. ECCV, 2016.  
+[2] L. Nie, C. Lin, K. Liao, S. Liu, and Y. Zhao. Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images. TIP, 2021.   
+[3] L. Nie, C. Lin, K. Liao, S. Liu, and Y. Zhao. Parallax-Tolerant Unsupervised Deep Image Stitching. ICCV, 2023.   
