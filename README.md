@@ -50,6 +50,11 @@ python test_online.py
 ```
 Then, a folder named 'result' will be created automatically to store the stitched videos.
 
+About the TPS warping function: 
+We set two modes to warp frames.
+* 'FAST' mode: It uses F.grid_sample to implement interpolation. It's fast but may produce thin black boundaries.
+* 'NORMAL' mode: It uses our implemented interpolation function. It's a bit slower but avoid the black boundaries.
+You can change the mode [here]().
 
 
 #### Calculate the metrics on the StabStitch-D dataset
