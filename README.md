@@ -38,12 +38,25 @@ The dataset can be available at [Google Drive](https://drive.google.com/drive/fo
 
 ## Code
 #### Requirement
-We implement StabStitch with one GPU of RTX4090Ti. Refer to [environment.yml]() for more details.
+We implement StabStitch with one GPU of RTX4090Ti. Refer to [environment.yml](https://github.com/nie-lang/StabStitch/blob/main/environment.yml) for more details.
+
+#### Pre-trained model
+The pre-trained models (spatial_warp.pth, temporal_warp.pth, and smooth_warp.pth) are available at [Google Drive](https://drive.google.com/drive/folders/1TuhQgD945MMnhmvnOwBS1LoLkYR1eetj?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1TTSbR4UYFL8f-nP3aGME7g) (extraction code: 1234). Please download them and put them in the 'model' folder.
 
 #### Test on the StabStitch-D dataset
+Modify the test_path in Codes/test_online.py and run:
+```
+python test_online.py
+```
+Then, a folder named 'result' will be created automatically to store the stitched videos.
+
+
 
 #### Calculate the metrics on the StabStitch-D dataset
-
+Modify the test_path in Codes/test_metric.py and run:
+```
+python test_metric.py
+```
 
 ## Limitation and Future Prospect 
 .
