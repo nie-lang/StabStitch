@@ -28,8 +28,8 @@ Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (relea
 - [x] 2024.03.11: The paper of the arXiv version is online.
 - [x] 2024.07.11: We have replaced the original arXiv version with the final camera-ready version.
 - [x] 2024.07.11: The StabStitch-D dataset is available.
-- [ ] Release the inference code and pre-trained model.
-- [ ] Release a limitation analysis about generalization.
+- [x] 2024.07.11: The inference code and pre-trained models are available.
+- [ ] Release a limitation analysis.
 
 ## Dataset (StabStitch-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/abs/2403.06378))
