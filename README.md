@@ -37,7 +37,13 @@ The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org
 The dataset can be available at [Google Drive](https://drive.google.com/drive/folders/16EDGrKOLLwcMseOjpI7bCrv_aP1MYVcz?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1TKQAQ9zryUuU4uzTiswfHg)(Extraction code: 1234).
 
 ## Code
-We will release the code within this week.
+#### Requirement
+We implement StabStitch with one GPU of RTX4090Ti. Refer to [environment.yml]() for more details.
+
+#### Test on the StabStitch-D dataset
+
+#### Calculate the metrics on the StabStitch-D dataset
+
 
 ## Limitation and Future Prospect 
 .
