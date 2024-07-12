@@ -29,7 +29,7 @@ Here, we provide a [video](https://www.youtube.com/watch?v=03kGEZJHxzI&t) (relea
 - [x] 2024.07.11: We have replaced the original arXiv version with the final camera-ready version.
 - [x] 2024.07.11: The StabStitch-D dataset is available.
 - [x] 2024.07.11: The inference code and pre-trained models are available.
-- [ ] Release a limitation analysis.
+- [x] 2024.07.12: We add a simple analysis of the limitations and prospects.
 
 ## Dataset (StabStitch-D)
 The details of the dataset can be found in our paper. ([arXiv](https://arxiv.org/abs/2403.06378))
@@ -64,7 +64,13 @@ python test_metric.py
 ```
 
 ## Limitation and Future Prospect 
-.
+
+### Generalization
+To test the model generalization, we adopt the pre-trained model (on the StabStitch-D dataset) to conduct some tests on traditional video stitching datasets. Surprisingly, it severely degrades and produces obvious distortions and artifacts, as illustrated in Figure (a) below. To further validate the generalization, we collect other video pairs from traditional video stitching datasets (over 30 video pairs) and retrain our model in the new dataset. As shown in Figure (b) below, it works well in the new dataset but fails to produce natural stitched videos on the StabStitch-D dataset.
+![image](https://github.com/nie-lang/StabStitch/blob/main/limitation.png)
+
+### Prospect
+
 
 ## Meta
 If you have any questions about this project, please feel free to drop me an email.
