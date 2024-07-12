@@ -74,7 +74,7 @@ We found that performance degradation mainly occurs in the spatial warp model. W
 
 It then throws a question about how to ensure the model generalization in learning-based stitching models. A simple and intuitive idea is to establish a large-scale real-world stitching benchmark dataset with various complex scenes. It should benefit various stitching networks in the generalization. Another idea is to apply continuous learning to the field of stitching, enabling the network to work robustly across various datasets with different distributions
 
-These are just a few simple proposals. We hope you, the intelligent minds in this field, can help to solve this problem and contribute to the advancement of this field. If you have some ideas, please feel free to drop me an email, even if it's just a brief discussion.
+These are just a few simple proposals. We hope you, the intelligent minds in this field, can help to solve this problem and contribute to the advancement of this field. If you have some ideas and want to discuss them with me, please feel free to drop me an email. I’m open to any kinds of collaboration. 
 
 ## Meta
 If you have any questions about this project, please feel free to drop me an email.
