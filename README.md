@@ -70,7 +70,9 @@ To test the model generalization, we adopt the pre-trained model (on the StabSti
 ![image](https://github.com/nie-lang/StabStitch/blob/main/limitation.png)
 
 ### Prospect
+We found that performance degradation mainly occurs in the spatial warp model. Without corrected spatial warps, the subsequent smoothing process will amplify the distortion.
 
+It then throws a question about how to ensure the model generalization in learning-based stitching models.
 
 ## Meta
 If you have any questions about this project, please feel free to drop me an email.
@@ -87,6 +89,6 @@ NIE Lang -- nielang@bjtu.edu.cn
 
 
 ## References
-[1] S Liu, P Tan, L Yuan, J Sun, B Zeng. Meshflow: Minimum latency online video stabilization. ECCV, 2016.  
+[1] S. Liu, P. Tan, L. Yuan, J. Sun, and B. Zeng. Meshflow: Minimum latency online video stabilization. ECCV, 2016.  
 [2] L. Nie, C. Lin, K. Liao, S. Liu, and Y. Zhao. Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images. TIP, 2021.   
 [3] L. Nie, C. Lin, K. Liao, S. Liu, and Y. Zhao. Parallax-Tolerant Unsupervised Deep Image Stitching. ICCV, 2023.   
