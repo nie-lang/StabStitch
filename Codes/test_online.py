@@ -93,7 +93,7 @@ def get_stable_sqe(img1_list, img2_list, ori_mesh):
     rigid_mesh = get_rigid_mesh(batch_size, img_h, img_w)
     norm_rigid_mesh = get_norm_mesh(rigid_mesh, img_h, img_w)
 
-    width_max = torch.max(torch.max(ori_mesh[...,0]))
+    width_max = torch.max(ori_mesh[...,0])
     width_max = torch.maximum(torch.tensor(img_w).cuda(), width_max)
     width_min = torch.min(ori_mesh[...,0])
     width_min = torch.minimum(torch.tensor(0).cuda(), width_min)
