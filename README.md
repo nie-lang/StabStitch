@@ -1,7 +1,8 @@
 # <p align="center">Eliminating Warping Shakes for Unsupervised Online Video Stitching
 
 ## 🚩Recommendation
-We have released the complete code of [StabStitch++](https://github.com/nie-lang/StabStitch2) (an extension of StabStitch) with better alignment, fewer distortions, and higher stability.
+We have released the complete code of [StabStitch++](https://github.com/nie-lang/StabStitch2) (an extension of StabStitch) with better alignment, fewer distortions, and higher stability.  
+It contains the codes for training, inference, and multi-video stitching.
 
 ## Introduction
 This is the official implementation for [StabStitch](https://arxiv.org/abs/2403.06378) (ECCV2024).
